@@ -330,12 +330,4 @@ The acceleration curve has a shape. It is visible in the data. The predictions a
 
 ---
 
-## Go Deeper
-
-The companion technical reference — [CORDIC in the AI Accelerator Stack](./CORDIC-in-the-AI-Accelerator-Stack.md) — provides the full architecture descriptions, silicon measurements, paper index, and mathematical foundations that ground every claim in this document.
-
-The narrative introduction — [Just Shift and Add](./README-narrative.md) — provides the historical context and conceptual framing for readers approaching CORDIC for the first time.
-
----
-
 *Predictions constructed from published results in IEEE TVLSI, IEEE TCAS-I/II, ACM TRETS, IEEE ARITH 2024, ISVLSI 2025, ISCAS 2025, VDAT 2025, VLSID 2026, and arXiv preprints through June 2026. Confidence levels represent the author's calibrated assessment of prediction accuracy given available evidence; they are not derived from formal probability models. All timelines are calendar year endpoints.*
